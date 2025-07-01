@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/rookr/Documents/The-C-Plus-Plus-Project/C++Project",
-      "program": "/Users/rookr/Documents/The-C-Plus-Plus-Project/C++Project/build/Debug/outDebug"
+      "cwd": "/Users/rookr/Documents/The-C-Plus-Plus-Project/C++Project/1.Introduction",
+      "program": "/Users/rookr/Documents/The-C-Plus-Plus-Project/C++Project/1.Introduction/build/Debug/outDebug"
     }
   ]
 }
